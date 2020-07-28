@@ -2,9 +2,9 @@
 
 Requirements :-
 
-  • TensorFlow - 1.15.2
-  • Keras - 2.1.5
-  • PIL
+  • TensorFlow - 1.15.2\
+  • Keras - 2.1.5\
+  • PIL\
   • OpenCV
   
 
