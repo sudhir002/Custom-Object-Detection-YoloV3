@@ -1,10 +1,10 @@
 # Custom-Object_Detection-YoloV3
 
 Requirements :-
-  TensorFlow - 1.15.2\
-  Keras - 2.1.5\
-  PIL\
-  OpenCV\
+  • TensorFlow - 1.15.2
+  • Keras - 2.1.5
+  • PIL
+  • OpenCV
   
 
 Train Custom Model - 
